@@ -4,7 +4,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)](https://dart.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A lightweight, secure Flutter application for generating Bitcoin and Dogecoin wallets. Create hierarchical deterministic (HD) wallets using BIP32, BIP39, and BIP44 standards.
+A modern, reliable Flutter implementation for generating Bitcoin and Dogecoin wallets. This project addresses the challenges of obsolete cryptocurrency libraries in the Flutter ecosystem by providing an up-to-date solution for creating hierarchical deterministic (HD) wallets using BIP32, BIP39, and BIP44 standards.
 
 ## 🔑 Key Features
 
@@ -13,6 +13,8 @@ A lightweight, secure Flutter application for generating Bitcoin and Dogecoin wa
 - **Multi-Coin Support**: Currently generates Bitcoin and Dogecoin wallets
 - **Offline Capability**: Generate wallets without an internet connection
 - **Open Source**: Transparent security for cryptocurrency wallet generation
+- **Current Libraries**: Uses updated dependencies to avoid obsolete Flutter crypto libraries
+- **Maintainable Implementation**: Clean architecture that's easy to extend and maintain
 
 ## 🚀 Getting Started
 
