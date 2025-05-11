@@ -16,6 +16,12 @@ A modern, reliable Flutter implementation for generating Bitcoin and Dogecoin wa
 - **Current Libraries**: Uses updated dependencies to avoid obsolete Flutter crypto libraries
 - **Maintainable Implementation**: Clean architecture that's easy to extend and maintain
 
+## Screenshot
+
+Here is a screenshot of the wallet generation result:
+
+![Wallet Generation Result](https://github.com/shehrii9/Flutter-Bitcoin-Doge-WalletGen/blob/main/screenshot/result.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
